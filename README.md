@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Math, ML&DL, Python, Java
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me t.me/hlebus
-##Resources for me (from spring school):
+## Resources for me (from spring school):
 - https://learngitbranching.js.org/
 - Stepik
 - Deep Learning School
