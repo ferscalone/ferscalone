@@ -2,7 +2,7 @@
 - 👀 I’m interested in Math, ML&DL, Python, Java
 - 🌱 I’m currently learning Math, ML&DL, Python, Java
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me t.me/hlebus
+- 📫 How to reach me t.me/hlebusss
 ## Resources for me (from spring school):
 - https://learngitbranching.js.org/
 - Stepik
