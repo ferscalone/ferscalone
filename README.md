@@ -12,7 +12,7 @@
 ## Algorithms:
 - https://yandex.ru/yaintern/algorithm-training
 - https://leetcode.com/
-- kaggle.com
+- https://kaggle.com/
 - https://habr.com/ru/company/yandex/blog/449890/
 - https://academy.yandex.ru/
 - https://yandex.ru/online-courses/index_mobile/
