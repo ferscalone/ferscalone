@@ -17,3 +17,10 @@
 - https://academy.yandex.ru/
 - https://yandex.ru/online-courses/index_mobile/
 - https://academy.yandex.ru/dataschool/
+### Roadmap
+- [ ] https://roadmap.sh/backend
+- [ ] At first I should choose my professional specialization/picking up the path (Backend, Enterprise, Mobile, ML etc) and then improve your skills in this specialization
+- [ ] At the first C++ (selfedu, Ravesli, Metanit, docs and problems solving on hackerrank, topcoder etc).
+- [ ] Python Ya.Lyceum
+- [ ] https://practicum.yandex.ru/career-advisor/
+- [ ] https://www.freecodecamp.org/learn/back-end-development-and-apis/
