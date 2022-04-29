@@ -1,4 +1,7 @@
 ![](https://www.codewars.com/users/ferscalone/badges/large)
+- [QWidget](https://doc.qt.io/qtforpython-5/PySide2/QtWidgets/QWidget.html)
+- [Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+- [QtGui](https://doc.qt.io/qtforpython-5/PySide2/QtGui/index.html#module-PySide2.QtGui)
 - 👋 Hi, I’m @ferscalone
 - 👀 I’m interested in Math, ML&DL, Python, Java
 - 🌱 I’m currently learning Math, ML&DL, Python, Java
